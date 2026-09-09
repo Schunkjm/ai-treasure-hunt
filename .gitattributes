@@ -1,0 +1,2 @@
+# Frozen SHA-256 records cover exact bytes; do not convert checkout line endings.
+* -text
